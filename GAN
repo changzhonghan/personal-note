@@ -3,5 +3,7 @@ dualGAN
 cycleGAN
 DIscoGAn
 
-stackGAN:StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Network
+text 2 image
 Generative Adversarial Text to Image Synthesis
+StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Network
+
