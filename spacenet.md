@@ -1,4 +1,4 @@
-[spacenet](https://aws.amazon.com/cn/public-datasets/spacenet/)
+https://aws.amazon.com/cn/public-datasets/spacenet/
 
 https://devblogs.nvidia.com/parallelforall/exploring-spacenet-dataset-using-digits/
 
