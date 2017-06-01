@@ -16,3 +16,7 @@ Towards Better Exploiting Convolutional Neural Networks for Remote Sensing Scene
 Deep Neural Networks for Semantic Segmentation of Multispectral Remote Sensing Imagery
 https://www.grss-ieee.org/community/technical-committees/data-fusion/
 http://www2.isprs.org/commissions/comm3/wg4/semantic-labeling.html
+
+
+
+From Zero-shot Learning to Conventional Supervised Classification: Unseen Visual Data Synthesis
