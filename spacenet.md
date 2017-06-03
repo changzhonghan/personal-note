@@ -21,3 +21,13 @@ https://www.grss-ieee.org/community/technical-committees/data-fusion/
 http://www2.isprs.org/commissions/comm3/wg4/semantic-labeling.html
 
 From Zero-shot Learning to Conventional Supervised Classification: Unseen Visual Data Synthesis
+
+
+## noisy labels
+http://cs231n.stanford.edu/reports/2015/pdfs/flatow_penner_report.pdf
+
+Training Deep Neural Networks on Noisy Labels with Bootstrapping
+
+
+
+
