@@ -31,3 +31,11 @@ http://cs231n.stanford.edu/slides/
 
 http://cs231n.stanford.edu/reports/
 
+
+## segmentation
+http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/
+http://www.cs.unc.edu/~wliu/papers/parsenet.pdf
+http://mi.eng.cam.ac.uk/projects/segnet/
+https://github.com/fyu/dilation
+http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf
+https://github.com/msracver/FCIS   https://arxiv.org/abs/1611.07709  Fully Convolutional Instance-aware Semantic Segmentation
