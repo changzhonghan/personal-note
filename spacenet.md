@@ -46,3 +46,7 @@ http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_De
 https://github.com/msracver/FCIS   
 https://arxiv.org/abs/1611.07709  
 Fully Convolutional Instance-aware Semantic Segmentation
+
+https://github.com/facebookresearch/deepmask
+
+Instance-sensitive Fully Convolutional Network
