@@ -27,7 +27,7 @@ From Zero-shot Learning to Conventional Supervised Classification: Unseen Visual
 http://cs231n.stanford.edu/reports/2015/pdfs/flatow_penner_report.pdf
 
 Training Deep Neural Networks on Noisy Labels with Bootstrapping
+http://cs231n.stanford.edu/slides/
 
-
-
+http://cs231n.stanford.edu/reports/
 
