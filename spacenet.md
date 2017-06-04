@@ -50,3 +50,7 @@ Fully Convolutional Instance-aware Semantic Segmentation
 https://github.com/facebookresearch/deepmask
 
 Instance-sensitive Fully Convolutional Network
+
+#### CRP + FCN
+https://arxiv.org/abs/1606.00915 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+https://arxiv.org/abs/1412.7062 Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
