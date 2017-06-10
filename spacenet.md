@@ -33,30 +33,23 @@ http://cs231n.stanford.edu/reports/
 
 
 ## segmentation
-http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/
-
-http://www.cs.unc.edu/~wliu/papers/parsenet.pdf
-
-http://mi.eng.cam.ac.uk/projects/segnet/
-
-https://github.com/fyu/dilation
-
-http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf
-
-https://github.com/msracver/FCIS   
-https://arxiv.org/abs/1611.07709  
-Fully Convolutional Instance-aware Semantic Segmentation
-
-https://github.com/facebookresearch/deepmask
-
-Instance-sensitive Fully Convolutional Network
+* http://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/
+* http://www.cs.unc.edu/~wliu/papers/parsenet.pdf
+* http://mi.eng.cam.ac.uk/projects/segnet/
+* https://github.com/fyu/dilation
+* http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf
+* https://github.com/msracver/FCIS   
+* https://arxiv.org/abs/1611.07709  
+* Fully Convolutional Instance-aware Semantic Segmentation
+* https://github.com/facebookresearch/deepmask
+* Instance-sensitive Fully Convolutional Network
 
 #### CRP + FCN
-https://arxiv.org/abs/1606.00915 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
-https://arxiv.org/abs/1412.7062 Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
+* https://arxiv.org/abs/1606.00915 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
+* https://arxiv.org/abs/1412.7062 Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
 
 ## NN satelite
-DeepSat – A Learning framework for Satellite Imagery  https://arxiv.org/pdf/1509.03602.pdf
+* DeepSat – A Learning framework for Satellite Imagery  https://arxiv.org/pdf/1509.03602.pdf
 
 ## location
 * https://arxiv.org/pdf/1705.08101.pdf 
