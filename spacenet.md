@@ -54,3 +54,12 @@ Instance-sensitive Fully Convolutional Network
 #### CRP + FCN
 https://arxiv.org/abs/1606.00915 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
 https://arxiv.org/abs/1412.7062 Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
+
+## NN satelite
+DeepSat – A Learning framework for Satellite Imagery  https://arxiv.org/pdf/1509.03602.pdf
+
+## location
+https://arxiv.org/pdf/1705.08101.pdf 
+PROCEEDINGS OF THE IEEE, DOI: 10.1109/JPROC.2017.26843001 Towards seamless multi-view scene analysis from satellite to street-level
+https://arxiv.org/pdf/1705.06057.pdf 
+https://arxiv.org/pdf/1608.00161.pdf
