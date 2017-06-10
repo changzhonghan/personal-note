@@ -63,3 +63,12 @@ https://arxiv.org/pdf/1705.08101.pdf
 PROCEEDINGS OF THE IEEE, DOI: 10.1109/JPROC.2017.26843001 Towards seamless multi-view scene analysis from satellite to street-level
 https://arxiv.org/pdf/1705.06057.pdf 
 https://arxiv.org/pdf/1608.00161.pdf
+
+http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Lin_Cross-View_Image_Geolocalization_2013_CVPR_paper.pdf
+
+https://arxiv.org/pdf/1605.08323.pdf
+
+https://arxiv.org/pdf/1510.03743v1.pdf
+
+http://cs.uky.edu/~scott/research/
+
