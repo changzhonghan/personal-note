@@ -22,6 +22,10 @@ R-FCN:Object Detection via Region-based Fully Convolutional Networks.NIPS 2016
 * Fully Convolutional Instance-aware Semantic Segmentation
 * https://github.com/facebookresearch/deepmask
 * Instance-sensitive Fully Convolutional Network
+## upsampling
+
+* https://arxiv.org/pdf/1702.08502.pdf  Understanding Convolution for Semantic Segmentation
+* https://arxiv.org/pdf/1705.06820.pdf  Pixel Deconvolutional Networks
 
 #### CRP + FCN
 * https://arxiv.org/abs/1606.00915 DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
