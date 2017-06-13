@@ -46,4 +46,5 @@ http://cs231n.stanford.edu/reports/
 * https://arxiv.org/pdf/1605.08323.pdf
 * https://arxiv.org/pdf/1510.03743v1.pdf
 * http://cs.uky.edu/~scott/research/
+* http://graphics.cs.cmu.edu/
 
