@@ -21,3 +21,7 @@ http://xueshu.baidu.com/s?wd=paperuri%3A(627225f2ec687b2122f1f053d9648fdc)&filte
 
 http://www.vision.ee.ethz.ch/~timofter/
 A+: Adjusted Anchored Neighborhood Regression for Fast Super-Resolution. In Asian Conference on Computer Vision (ACCV 2014), November 2014, Singapore
+
+
+## writing
+https://cs.stanford.edu/people/widom/paper-writing.html
