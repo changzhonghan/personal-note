@@ -33,3 +33,8 @@ R-FCN:Object Detection via Region-based Fully Convolutional Networks.NIPS 2016
 * http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/?utm_source=tuicool&utm_medium=referral
 * http://warmspringwinds.github.io/
 * https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
+
+Co liza
+https://arxiv.org/pdf/1705.02758.pdf
+https://arxiv.org/pdf/1706.05952.pdf
+https://arxiv.org/pdf/1705.09052.pdf
