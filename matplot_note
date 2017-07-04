@@ -26,3 +26,20 @@ def main(gif_file):
 if __name__=='__main__':
     gif_file = 'test.gif'
     main(gif_file)
+
+
+
+
+class Logger():
+    def __init__(self, data_dir, split):
+        self.logf = data_dir + '/' + split + '_' + time.strftime("%Y_%m_%d") + '_logging.txt'
+        with open(self.logf, 'a') as f: 
+            f.write("A new experiment \n")
+            f.write(time.strftime("%Y_%m_%d_%X"))
+
+    def write(self, s, print_it=True):
+        if print_it:
+            print (s)
+        with open(self.logf, 'a') as f:
+            
+            f.write(s + "\n")
